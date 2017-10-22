@@ -34,3 +34,10 @@ export default {
 
 }
 </script>
+<style>
+ .progress-marker {
+  border-radius: 0%!important;
+  width:50px!important;
+  height:30px!important;
+ }
+</style>
